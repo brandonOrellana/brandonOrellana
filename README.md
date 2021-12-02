@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hola , soy Brandon Orellana Rojas   👋
 ### Puede mirar sin compromiso
 
-## Futuro desarrollador web
+## Futuro desarrollador
 
 - 🔭 Sigo siendo un estudiante🎓
 - 🌱 Actualmente sigo buscando aprender mas
